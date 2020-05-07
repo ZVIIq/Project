@@ -1,0 +1,6 @@
+F:\test\HighConcurrency\HighConcurrency\bin\Debug\HighConcurrency.dll
+F:\test\HighConcurrency\HighConcurrency\bin\Debug\HighConcurrency.pdb
+F:\test\HighConcurrency\HighConcurrency\obj\Debug\HighConcurrency.csprojAssemblyReference.cache
+F:\test\HighConcurrency\HighConcurrency\obj\Debug\HighConcurrency.csproj.CoreCompileInputs.cache
+F:\test\HighConcurrency\HighConcurrency\obj\Debug\HighConcurrency.dll
+F:\test\HighConcurrency\HighConcurrency\obj\Debug\HighConcurrency.pdb
